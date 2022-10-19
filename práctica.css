@@ -1,0 +1,18 @@
+.btn-light {
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-color: #000000; 
+}
+.btn-light:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary  {
+    color: #fff;
+    background-color: #ee93f7 !important;
+    border-color: #dc12eb !important;
+}
+
+.text-decoration-none {
+    color:rgb(0, 0, 0)
+}
+
+.text-decoration-none:hover {
+    color:rgb(255, 255, 255)
+}
